@@ -1,0 +1,1 @@
+# simulatore-canale-di-comunicazione
